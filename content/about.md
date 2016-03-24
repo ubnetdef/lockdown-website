@@ -12,10 +12,10 @@ Lockdown is a Cyber Security competition.
 We ask that only beginners in Cyber Security compete for the fairness of the competition. For example, if you would compete at [NECCDC](http://neccdc.net/), this would not be the competition for you.
 
 ### When is it?
-Lockdown v0 starts **April 9th, 2016 from 10AM to 4PM**. A schedule of events is located [here](/schedule).
+Lockdown v0 is scheduled on **April 9th, 2016 from 10AM to 5PM**. A schedule of events is located [here](/schedule).
 
 ### Where is it hosted?
-Lockdown is hosted at the [University at Buffalo](https://www.buffalo.edu/), Capen Hall, Room 201. Directions will be posted shortly.
+Lockdown is hosted at the University at Buffalo, Capen Hall, Room 201A. Directions can be found [here](/directions).
 
 ### I have more questions!
 Great! Email the competition organizer at [jamesdro@buffalo.edu](mailto:jamesdro@buffalo.edu?subject=Lockdown Question) with any questions you have!
