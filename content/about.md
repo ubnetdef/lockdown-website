@@ -17,5 +17,8 @@ Lockdown v0 is scheduled on **April 9th, 2016 from 10AM to 5PM**. A schedule of 
 ### Where is it hosted?
 Lockdown is hosted at the University at Buffalo, Capen Hall, Room 201A. Directions can be found [here](/directions).
 
+### Do you have any resources you recommend?
+Absolutely! We recommend you check out our [Beginner's Security Guide](/guide).
+
 ### I have more questions!
 Great! Email the competition organizer at [jamesdro@buffalo.edu](mailto:jamesdro@buffalo.edu?subject=Lockdown Question) with any questions you have!
