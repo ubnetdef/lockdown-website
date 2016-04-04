@@ -1,5 +1,5 @@
 +++
-date = "2016-04-01"
+date = "2016-04-04"
 title = "About"
 menu = "MainLeft"
 weight = 0
@@ -19,6 +19,12 @@ Lockdown is hosted at the University at Buffalo, Capen Hall, Room 201A. Directio
 
 ### Do you have any resources you recommend?
 Absolutely! We recommend you check out our [Beginner's Security Guide](/guide).
+
+### What about a Team Packet?
+We have that as well! Check it out [here](/resources/Lockdownv0_TeamPacket.pdf).
+
+### Do I need to do anything?
+Yes, please make sure you email the competition organizer ([jamesdro@buffalo.edu](mailto:jamesdro@buffalo.edu?subject=Lockdown)) a signed copy of your [Photo Release](/resources/PhotoRelease.pdf) and resume.
 
 ### I have more questions!
 Great! Email the competition organizer at [jamesdro@buffalo.edu](mailto:jamesdro@buffalo.edu?subject=Lockdown Question) with any questions you have!
