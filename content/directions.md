@@ -3,7 +3,7 @@ date = "2016-03-24"
 title = "Directions"
 +++
 
-Lockdown takes place at the University at Buffalo, Capen Hall, Room 201A.
+Lockdown takes place at the University at Buffalo, Jacobs Management Center, Room B20.
 
 A map of the University at Buffalo's North Campus is located [here](http://www.buffalo.edu/buildings/maps/NorthCampus.pdf).
 
