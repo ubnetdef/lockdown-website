@@ -15,7 +15,7 @@ We ask that only beginners in Cyber Security compete for the fairness of the com
 Lockdown v0 is scheduled on **April 9th, 2016 from 10AM to 5PM**. A schedule of events is located [here](/schedule).
 
 ### Where is it hosted?
-Lockdown is hosted at the University at Buffalo, Capen Hall, Room 201A. Directions can be found [here](/directions).
+Lockdown is hosted at the University at Buffalo, Jacobs Management Center, Room B20. Directions can be found [here](/directions).
 
 ### Do you have any resources you recommend?
 Absolutely! We recommend you check out our [Beginner's Security Guide](/guide).
