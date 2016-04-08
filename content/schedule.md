@@ -4,9 +4,9 @@ title = "Schedule of Events"
 +++
 
 ### 9:30AM - 9:45AM
-Competitors arrive at Capen 201 for initial checkin.
+Competitors arrive at Jacobs B20 for initial checkin.
 
-Coffee will be available, as well as shirts will be handed out.
+Coffee and donuts will be available.
 
 ### 10:00AM
 Start of competition
@@ -18,4 +18,4 @@ Lunch is provided. Competition will **not** be pausing.
 Competition has ended!
 
 ### 4:00PM - 5:00PM
-Debrief from Red Team, and White Team. Winners announced!
+Debrief from Red Team and White Team. Winners announced!
