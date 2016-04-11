@@ -14,7 +14,7 @@
 		],
 		"MainRight": [
 			{
-				"Name": "UBNETDEF",
+				"Name": "UBNetDef",
 				"Post": "<span class=\"glyphicon glyphicon-share-alt\"></span>",
 				"Weight": -100,
 				"URL": "https://ubnetdef.org"
