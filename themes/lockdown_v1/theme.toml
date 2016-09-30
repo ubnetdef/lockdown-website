@@ -1,0 +1,12 @@
+name = "Lockdown v1"
+license = "MIT"
+licenselink = "https://github.com/ubnetdef/lockdown-website/blob/master/LICENSE.md"
+description = "UBNETDEF Lockdown v1 website theme"
+homepage = "https://lockdown.ubnetdef.org/"
+tags = ["bootstrap"]
+features = ["?"]
+min_version = 0.14
+
+[author]
+  name = "James Droste"
+  homepage = "https://james.droste.im"

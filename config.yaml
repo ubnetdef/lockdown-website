@@ -1,0 +1,17 @@
+baseurl: "https://lockdown.ubnetdef.org/"
+languageCode: "en-us"
+title: "Lockdown"
+theme: "lockdown_v1"
+disableHugoGeneratorInject: true
+
+menu:
+  main:
+    - Name: "about"
+      Weight: -100
+      URL: "/about"
+    - Name: "registration"
+      Weight: -90
+      URL: "/registration"
+    - Name: "faq"
+      Weight: -90
+      URL: "/faq"
