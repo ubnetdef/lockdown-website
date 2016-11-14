@@ -5,7 +5,7 @@ theme: "lockdown_v1"
 disableHugoGeneratorInject: true
 
 menu:
-  MainLeft:
+  main:
     - Name: "about"
       Weight: -100
       URL: "/about"
