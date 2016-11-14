@@ -3,10 +3,13 @@ date = "2016-03-23"
 title = "Schedule of Events"
 +++
 
-### 9:30AM - 9:45AM
+### 9:00AM - 9:30AM
 Competitors arrive at Jacobs B20 for initial checkin.
 
 Coffee and donuts will be available.
+
+### 9:30AM - 9:45AM
+Opening remarks
 
 ### 10:00AM
 Start of competition

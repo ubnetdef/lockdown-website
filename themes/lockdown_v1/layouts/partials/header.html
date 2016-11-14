@@ -1,60 +1,48 @@
+{{ $currentNode := . }}
 <!DOCTYPE html>
-<html lang="en">
+{{ "<!--[if lt IE 7]>" | safeHTML }} <html class="no-js lt-ie9 lt-ie8 lt-ie7"> {{ "<![endif]-->" | safeHTML }}
+{{ "<!--[if IE 7]>" | safeHTML }} <html class="no-js lt-ie9 lt-ie8"> {{ "<![endif]-->" | safeHTML }}
+{{ "<!--[if IE 8]>" | safeHTML }} <html class="no-js lt-ie9"> {{ "<![endif]-->" | safeHTML }}
+{{ "<!--[if gt IE 8]><!-->" | safeHTML }} <html class="no-js"> {{ "<!--<![endif]-->" | safeHTML }}
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="{{ "/favicon.ico" | absURL }}">
 
 	<title>{{ .Title }}{{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}</title>
 
+	{{ "<!--[if lt IE 9]>" | safeHTML }}
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	{{ "<![endif]-->" | safeHTML }}
+
 	<link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | absURL }}">
+
 	<link rel="stylesheet" href="{{ "/css/style.css" | absURL }}">
-	<link href="//fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
 <body>
+
+<div class="container">
 	<nav class="navbar navbar-default">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#ubnetdef-nav">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
 					<span class="sr-only">Toggle navigation</span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="{{ "/" | absURL }}">
-					<img src="{{ "/img/logo.png" | absURL }}" class="img-responsive logo" />
-				</a>
 			</div>
 
-			<div class="collapse navbar-collapse" id="ubnetdef-nav">
-				<ul class="nav navbar-nav">
-					{{ range .Site.Menus.main }}
-					{{ if .HasChildren }}
-					<li{{ if or (eq $.Params.navbar_active_link .Name) (eq (lower $.Title) .Name) }} class="active"{{ end }}>
-						<a href="{{ .URL | absURL }}" class="dropdown-toggle" data-toggle="dropdown">
-							{{ .Pre }}
-							{{ .Name }}
-							{{ .Post }}
-						</a>
+			<div class="brand-centered">
+				<a class="navbar-brand" href="{{ "/" | absURL }}">Lockdown v1</a>
+			</div>
 
-						<ul class="dropdown-menu">
-							{{ range .Children }}
-							{{ if eq .Name "---" }}
-							<li role="separator" class="divider"></li>
-							{{ else }}
-							<li>
-								<a href="{{ .URL | absURL }}">
-									{{ .Pre }}
-									{{ .Name }}
-									{{ .Post }}
-								</a>
-							</li>
-							{{ end }}
-							{{ end }}
-						</ul>
-					</li>
-					{{ else }}
-					<li{{ if or (eq $.Params.navbar_active_link .Name) (eq (lower $.Title) .Name) }} class="active"{{ end }}>
+			<div id="navbar" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-left">
+					{{ range .Site.Menus.MainLeft }}
+					<li class="{{ if $currentNode.IsMenuCurrent "MainLeft" . }}active{{ end }}">
 						<a href="{{ .URL | absURL }}">
 							{{ .Pre }}
 							{{ .Name }}
@@ -62,7 +50,20 @@
 						</a>
 					</li>
 					{{ end }}
+				</ul>
+
+				<ul class="nav navbar-nav navbar-right">
+					{{ range .Site.Menus.MainRight }}
+					<li class="{{ if $currentNode.IsMenuCurrent "MainRight" . }}active{{ end }}">
+						<a href="{{ .URL | absURL }}">
+							{{ .Pre }}
+							{{ .Name }}
+							{{ .Post }}
+						</a>
+					</li>
 					{{ end }}
 				</ul>
 			</div>
 		</div>
+	</nav>
+</div>

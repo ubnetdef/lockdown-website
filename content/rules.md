@@ -12,34 +12,26 @@ to treat others with dignity and respect, and to foster an open and welcoming
 environment for all involved. Anyone found to be violating this stipulation will be
 penalized at the discretion of the competition organizers.
 
-  2. All university and local/state/federal government rules apply and ultimately
+  2. **All network traffic during the competition is being captured and logged.
+  Do not enter any personal credentials unless you are comfortable with sharing it with the world.**
+
+  3. All university and local/state/federal government rules apply and ultimately
 supersede the regulations listed
 
-  3. No alcohol or substance use will be tolerated, including smoking (the University at
+  4. No alcohol or substance use will be tolerated, including smoking (the University at
 Buffalo is a smoke-free campus).
 
-  4. You are free to come and go from the competition room as you please so long as it is
+  5. You are free to come and go from the competition room as you please so long as it is
 not for outside assistance regarding competition matters. What happens in the
 competition room stays in the competition room (until the event is over, then by all
 means talk about and review whatever you wish!)
 
 2. Scoring
-  1. _Technical Expertise_: **50%** of blue team grades will be determined by the uptime of
-various services within their network and configuration of new services and system,
-via inject request. These services include **HTTP, HTTPS, DNS, FTP, Ping, AD,
-Exchange, etc**. ​Teams will all have access to a scoreboard, which will show which
-services are currently "up" (meaning reachable and usable) and which are "down"
-(unreachable and/or unusable). Scoring engine checks occur in a synchronous
-fashion – each service will be checked once every 60 seconds. Misconfigurations and
-not following best practices will mostly likely result in loss of point. This is
-determined based on Red Team gaining access.
+  1. _Service Uptime_: **40%** of blue team scores will be determined by the uptime of various services within their network and configuration of new services and system, via inject request. These services include Ping (1), Ping (A), AD, HTTP, FTP, and IMAP. ​Teams will all have access to a scoreboard, which will show which services are currently “up” (meaning reachable and usable) and which are “down” (unreachable and/or unusable). Scoring engine checks occur in a synchronous fashion – each service will be checked once every 60 seconds. Misconfigurations and not following best practices will mostly likely result in loss of point. This is determined based on Red Team gaining access.
 
-  2. _Management Expertise_: **50%** of blue team grades will be determined by the
-successful and quality completion of the tasks they are given by the white team
-throughout the competition. Completeness counts, as does quality. It is expected
-that any injects that are written will be typed in a professional and
-report/documentation format. Anything you submit inject-wise should be
-something that you would feel comfortable submitting to your boss at work.
+  2. _Injects_: **40%** of blue team scores will be determined by the successful and quality completion of the tasks they are given by the white team throughout the competition. Completeness counts, as does quality. It is expected that any injects that are written will be typed in a professional and report/documentation format. Anything you submit inject-wise should be something that you would feel comfortable submitting to your boss at work.
+
+  3. _Incident Reports_: **20%** of blue team’s will be determined by the successful and quality reporting of any incidents that occurred during the competition.  It is expected that any incident reports written will be typed in a professional and report/documentation format.  The same rules apply that apply to Injects apply to Incident Reports .
 
 3. Infrastructure
   1. The University at Buffalo owns all infrastructure – this includes hardware, software,

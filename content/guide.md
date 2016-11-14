@@ -1,6 +1,8 @@
 +++
 date = "2016-04-01"
 title = "Beginner's Security Guide"
+
+draft = true
 +++
 
 ### What is it?
