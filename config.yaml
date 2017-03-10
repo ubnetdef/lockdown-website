@@ -1,7 +1,7 @@
 baseurl: "https://lockdown.ubnetdef.org/"
 languageCode: "en-us"
 title: "Lockdown"
-theme: "lockdown_v1"
+theme: "lockdown_v2"
 disableHugoGeneratorInject: true
 
 menu:
