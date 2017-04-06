@@ -22,3 +22,4 @@ Yes, please make sure you email the competition organizer ([crlevine@buffalo.edu
 
 ### I have more questions!
 Great! Email the competition organizer at [crlevine@buffalo.edu](mailto:crlevine@buffalo.edu?subject=Lockdown+Question) with any questions you have!
+

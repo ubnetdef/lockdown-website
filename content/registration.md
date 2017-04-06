@@ -1,7 +1,6 @@
 +++
 date = "2016-03-18"
 title = "Registration"
-menu = "MainLeft"
 weight = 200
 
 
