@@ -7,7 +7,7 @@ title = "About"
 Lockdown is a Cyber Security competition.
 
 ### When is it?
-Lockdown v2 is scheduled on **April 15th, 2016 from 9AM to 5PM**. A schedule of events is located [here](/schedule).
+Lockdown v2 is scheduled on **April 15th, 2017 from 9AM to 5PM**. A schedule of events is located [here](/schedule).
 
 ### Where is it hosted?
 Lockdown is hosted at the University at Buffalo, Jacobs Management Center, Room B20. Directions can be found [here](/directions).
@@ -17,3 +17,4 @@ Yes, please make sure you email the competition organizer ([crlevine@buffalo.edu
 
 ### I have more questions!
 Great! Email the competition organizer at [crlevine@buffalo.edu](mailto:crlevine@buffalo.edu?subject=Lockdown+Question) with any questions you have!
+
