@@ -1,8 +1,6 @@
 +++
 date = "2016-03-18"
 title = "Rules"
-menu = "MainLeft"
-weight = 100
 +++
 
 1. Code of Conduct
