@@ -43,12 +43,12 @@ competition, however (more information on that will be provided). The white team
 purchase will inform you of any penalties to your budget at the time of the request.
 
   3. **All software used by blue teams in the competition must be free and open
-source (FOSS) and publically available to anyone. No personal use or
+source (FOSS) and publicly available to anyone. No personal use or
 commercial trial software will be allowed.**
 
   4. There is to be no “pre-staging” of scripts or software prior to the start of the
 competition (i.e. creating a .zip archive and hiding it on Dropbox). All scripts and
-software must be publically available and free for any competitor. The exceptions to
+software must be publicly available and free for any competitor. The exceptions to
 this rule are scripts that are written during the competition inside of virtual
 machines and scripts written on paper.
 
@@ -72,7 +72,7 @@ so.**
 
 4. Reference Material
   1. You will have access to Internet on your host machines during the competition to
-use for looking up reference material. You may only use free and publically
+use for looking up reference material. You may only use free and publicly
 available resources (i.e. no paid support forums).
 
   2. On the subject of Internet on your host machines – you may not use the host
