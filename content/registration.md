@@ -1,6 +1,6 @@
 +++
-date = "2016-03-18"
+date = "2017-09-18"
 title = "Registration"
 +++
 
-We're sorry, Lockdown v2 is over.  Stay tuned for Lockdown v3!
+Lockdown v3 preparations are underway! Stay tuned!
