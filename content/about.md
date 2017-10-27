@@ -4,7 +4,7 @@ title = "About"
 +++
 
 ### What is Lockdown?
-Lockdown is a Cyber Security competition.
+Lockdown is a cyber security competition hosted by UBNetDef, and set up in a defense only, red vs blue format.  This semester's iteration of Lockdown is designed to be a beginner to intermediate skill level.
 
 ### When is it?
 Lockdown v3 is scheduled on **November 18th, 2017 from 9AM to 5PM**. A schedule of events is located [here](/schedule).
