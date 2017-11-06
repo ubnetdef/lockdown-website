@@ -25,12 +25,11 @@ competition room stays in the competition room (until the event is over, then by
 means talk about and review whatever you wish!)
 
 2. Scoring
-  1. _Service Uptime_: **40%** of blue team scores will be determined by the uptime of various services within their network and configuration of new services and system, via inject request. These services include Ping (1), Ping (A), AD, HTTP, FTP, and IMAP. ​Teams will all have access to a scoreboard, which will show which services are currently “up” (meaning reachable and usable) and which are “down” (unreachable and/or unusable). Scoring engine checks occur in a synchronous fashion – each service will be checked once every 60 seconds. Misconfigurations and not following best practices will mostly likely result in loss of point. This is determined based on Red Team gaining access.
+  1. _Service Uptime_: **50%** of blue team scores will be determined by the uptime of various services within their network and configuration of new services and system, via inject request. ​Teams will all have access to a scoreboard, which will show which services are currently “up” (meaning reachable and usable) and which are “down” (unreachable and/or unusable). Scoring engine checks occur in a synchronous fashion – each service will be checked once every 60 seconds. Misconfigurations and not following best practices will mostly likely result in loss of point. This is determined based on Red Team gaining access.
 
-  2. _Injects_: **40%** of blue team scores will be determined by the successful and quality completion of the tasks they are given by the white team throughout the competition. Completeness counts, as does quality. It is expected that any injects that are written will be typed in a professional and report/documentation format. Anything you submit inject-wise should be something that you would feel comfortable submitting to your boss at work.
+  2. _Injects_: **50%** of blue team scores will be determined by the successful and quality completion of the tasks they are given by the white team throughout the competition. Completeness counts, as does quality. It is expected that any injects that are written will be typed in a professional and report/documentation format. Anything you submit inject-wise should be something that you would feel comfortable submitting to your boss at work.
 
-  3. _Incident Reports_: **20%** of blue team’s will be determined by the successful and quality reporting of any incidents that occurred during the competition.  It is expected that any incident reports written will be typed in a professional and report/documentation format.  The same rules apply that apply to Injects apply to Incident Reports .
-
+ 
 3. Infrastructure
   1. The University at Buffalo owns all infrastructure – this includes hardware, software,
 the hypervisor/VM’s, etc. Treat it with respect and take due care to not cause any
