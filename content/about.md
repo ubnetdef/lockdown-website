@@ -7,7 +7,7 @@ title = "About"
 Lockdown is a cyber security competition hosted by UBNetDef, and set up in a defense only, Red vs Blue format.  This semester's iteration of Lockdown is designed to be a beginner to intermediate skill level. 
 
 ### When is it?
-Lockdown v5 is scheduled on **November 11th, 2018 from 9AM to 5PM**. A schedule of events is located [here](/schedule).
+Lockdown v5 is scheduled on **November 17, 2018 from 9AM to 5PM**. A schedule of events is located [here](/schedule).
 
 ### Where is it hosted?
 Lockdown is hosted at the University at Buffalo, Jacobs Management Center, Room B20. Directions can be found [here](/directions).
