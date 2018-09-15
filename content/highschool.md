@@ -10,7 +10,7 @@ What is it about?
 High School students in teams of 4 will be competiting in an inaugural High School Cybersecurity Competition. eams will be required to defend a small network of systems from attack, and ensure their services remain available. ams will also be assigned various tasks to complete throughout the event. A Cbersecurity CTF and other challenges will be part of the competition as well. We welcome teams of all skill level to come and have fun and compete in a chance to win many different prizes. 
 
 
-When and Where
+When and where?
 ------
 
 The competition is 12/1/2018 at the UB North Campus from 9:30am to 3:30pm in the Jacobs School of Management building, room B30 and B34.
