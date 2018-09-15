@@ -1,6 +1,6 @@
 +++
 date = "2018-09-13"
-title = "High School competition"
+title = "High School Competition"
 +++
 
 
