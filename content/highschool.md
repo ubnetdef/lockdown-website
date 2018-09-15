@@ -16,7 +16,7 @@ When and Where
 The competition is 12/1/2018 at the UB North Campus from 9:30am to 3:30pm in the Jacobs School of Management building, room B30 and B34.
 
 
-Who do I contant for more information?
+Who do I contact for more information?
 ------
 
 **Name:** David Murray
