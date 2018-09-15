@@ -7,7 +7,7 @@ title = "High School Competition"
 What is it about?
 ------
 
-High School students in teams of 4 will be competiting in an inaugural High School Cybersecurity Competition. Teams will be required to defend a small network of systems from attack, and ensure their services remain available. Teams will also be assigned various tasks to complete throughout the event. A Cybersecurity CTF and other challenges will be part of the competition as well. We welcome teams of all skill level to come and have fun and compete in a chance to win many different prizes. 
+High School students in teams of 4 will be competing in an inaugural High School Cybersecurity Competition. Teams will be required to defend a small network of systems from attack, and ensure their services remain available. Teams will also be assigned various tasks to complete throughout the event. A Cybersecurity CTF and other challenges will be part of the competition as well. We welcome teams of all skill level to come and have fun and compete in a chance to win many different prizes. 
 
 
 When and where?
