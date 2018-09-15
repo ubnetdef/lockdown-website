@@ -13,7 +13,7 @@ High School students in teams of 4 will be competiting in an inaugural High Scho
 When and where?
 ------
 
-The competition is 12/1/2018 at the UB North Campus from 9:30am to 3:30pm in the Jacobs School of Management building, room B30 and B34.
+The competition is **12/1/2018** at the UB North Campus from 9:30am to 3:30pm in the Jacobs School of Management building, room B30 and B34.
 
 
 Who do I contact for more information?
