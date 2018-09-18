@@ -29,7 +29,11 @@ Who do I contact for more information?
 Where do I register? 
 ------
 
-Registration is currently not open. But will be soon. 
+Registration is open!
+
+Here is the sign up form: https://goo.gl/forms/Ge2ms4eQAxMhbXF82
+
+Please contact David Murray if you have any questions or concerns. 
 
 
 
