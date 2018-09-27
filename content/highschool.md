@@ -1,5 +1,5 @@
 +++
-date = "2018-09-13"
+date = "2018-09-27"
 title = "High School Competition"
 +++
 
@@ -23,24 +23,16 @@ The competition is on **12/1/2018** at the UB North Campus from 9:30am to 3:30pm
 How do I register? 
 ------
 
-Registration is now open! 
-
-[Fill out this form](https://goo.gl/forms/Ge2ms4eQAxMhbXF82) to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
-
-Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+HS+Question) if you have any questions or concerns. 
+<a href="https://goo.gl/forms/Ge2ms4eQAxMhbXF82" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
 
 
 How do I prepare?
 ------
 
-We have developed some instructional videos available on Google Classroom to help you learn a bit about the technical infrastructure you will encounter at the competition.  Please use code **kny5yr** to enroll in the classroom.
+We have developed some instructional videos available on <a href="https://classroom.google.com" target="_blank">Google Classroom</a> to help you learn a bit about the technical infrastructure you will encounter at the competition.  Please use code **kny5yr** to enroll in the classroom.
 
 
 Who do I contact for more information?
 ------
 
-**Name:** David Murray
-
-**Email:** [djmurray@buffalo.edu](mailto:djmurray@buffalo.edu?subject=Lockdown+HS+Question)
-
-**Phone:** 716-645-3249
+Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+HS+Question) if you have any questions or concerns. 
