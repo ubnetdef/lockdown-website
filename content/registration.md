@@ -5,6 +5,6 @@ title = "Registration"
 
 Lockdown v5 registration open!
 
-Sign up here: https://docs.google.com/forms/d/1XLwsrRXlsOwvm1cUgUIoEI6oV9rieItM4B1GstYsoho
+Sign up here: https://goo.gl/forms/jH3Pgg9jGCZR6uG03
 
 Please email **ubnetdef@buffalo.edu** if you have any questions.
