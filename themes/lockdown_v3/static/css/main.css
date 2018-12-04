@@ -1,5 +1,5 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 img {
@@ -15,9 +15,9 @@ img {
 }
 
 .row:after {
-    content: "";
-    display: table; 
-    clear: both; 
+  content: "";
+  display: table; 
+  clear: both; 
 }
 
 .photos {
@@ -27,14 +27,16 @@ img {
   box-sizing: border-box;
 }
 
+.user-profile {
+  padding-bottom: 2rem;
+}
 
 body {
-   padding-bottom: 8rem;
+  padding-bottom: 8rem;
 }
 
 @media screen and (max-width: 1000px) {
-   .column {
-       width: 100%;
-   }
+  .column {
+    width: 100%;
+  }
 }
-
