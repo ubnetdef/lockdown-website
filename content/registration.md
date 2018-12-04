@@ -3,8 +3,6 @@ date = "2017-09-18"
 title = "Registration"
 +++
 
-Lockdown v5 registration open!
+Lockdown v5 is over! Please check back at another time for Lockdown v6!
 
-Sign up here: https://goo.gl/forms/jH3Pgg9jGCZR6uG03
-
-Please email **ubnetdef@buffalo.edu** if you have any questions.
+If you have any questions regarding Lockdown, please feel free to email **ubnetdef@buffalo.edu**

@@ -3,6 +3,8 @@ date = "2016-04-04"
 title = "Sponsors"
 menu = "MainLeft"
 weight = 200
+
+draft = true
 +++
 
 ### Thank you to our sponsors!
