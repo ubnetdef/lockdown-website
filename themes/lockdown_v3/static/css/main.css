@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+  height: 17.5em; 
+  width: 35em;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+
+}
+
+.row:after {
+    content: "";
+    display: table; 
+    clear: both; 
+}
+
+.photos {
+  padding: 1rem;
+  width: 100%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+
+body {
+   padding-bottom: 8rem;
+}
+
+@media screen and (max-width: 1000px) {
+   .column {
+       width: 100%;
+   }
+}
+
