@@ -18,3 +18,6 @@ menu:
     - Name: "high-school"
       Weight: -70
       URL: "/highschool"
+    - Name: "sponsors"
+      Weight: -60
+      URL: "/sponsors"
