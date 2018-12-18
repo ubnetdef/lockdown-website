@@ -5,7 +5,7 @@ title = "Sponsors"
 
 ### Thank you to these generous sponsors for supporting Lockdown!
 
-##### Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+Sponsorship) if you would like more information about sponsorship opportunities  
+Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+Sponsorship) if you would like more information about sponsorship opportunities.
 
 ### **Premier Sponsors**
 <div style="text-align: center">
