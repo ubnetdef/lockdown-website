@@ -1,8 +1,8 @@
 +++
-date = "2017-09-18"
+date = "2019-01-31"
 title = "Registration"
 +++
 
-Lockdown v5 is over! Please check back at another time for Lockdown v6!
+Lockdown v6 will be held on April 27, 2019. Please check back later for registration information.
 
 If you have any questions regarding Lockdown, please feel free to email **ubnetdef@buffalo.edu**
