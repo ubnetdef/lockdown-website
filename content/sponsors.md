@@ -16,7 +16,6 @@ Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+Spons
 
 ### **Supporter Sponsors**
 <div style="text-align: center">
-  <br>
-  <img src="../Oath.png" style="width:200px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../Praxair.png" style="width:300px">
-  <img src="../Healthnow.png" style="width:300px;margin-top:2rem">
+  <img src="../verizon.jpg" style="width:350px">
+  <img src="../Healthnow.png" style="width:350px;margin-top:2rem">
 </div>
