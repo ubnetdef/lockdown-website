@@ -23,5 +23,5 @@ Incident Response begins
 ### 4:30PM
 Competition has ended!
 
-### 4:300PM - 5:00PM
+### 4:30PM - 5:00PM
 Debrief from Red Team and White Team. Winners announced!
