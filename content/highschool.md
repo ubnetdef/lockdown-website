@@ -1,6 +1,6 @@
 +++
 date = "2018-09-27"
-title = "High School Competition"
+title = "High School Cybersecurity Competition"
 +++
 
 
@@ -15,12 +15,12 @@ We welcome teams of all skill levels to join this fun and educational competitio
 
 ### When and where?
 
-The competition is on **2/16/2019** at the UB North Campus from 9:30am to 3:30pm.
+The competition is on **12/7/2019** at the UB North Campus from 9:30am to 3:30pm.
 
 
 ### How do I register? 
 
-<a href="https://goo.gl/forms/LZhT5A4kgReKQj2P2" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
+<a href="https://forms.gle/5koTj7m81jR6HyKC8" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
 
 
 ### How do I prepare?
