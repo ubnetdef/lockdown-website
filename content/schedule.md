@@ -12,16 +12,16 @@ Coffee and donuts will be available!
 Opening remarks
 
 ### 10:00AM
-Start of competition
+Competition scoring begins
 
 ### 12:00PM
 Lunch is provided. Competition will **not** be pausing.
 
 ### 3:30PM 
-Incident Response begins
+Uptime scoring ends
 
-### 4:30PM
-Competition has ended!
+### 3:30PM - 4:00PM
+Incident Response
 
-### 4:30PM - 5:00PM
+### 4:00PM - 4:30PM
 Debrief from Red Team and White Team. Winners announced!
