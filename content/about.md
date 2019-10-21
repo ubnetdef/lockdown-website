@@ -25,7 +25,7 @@ Great! Email the competition organizer at [ubnetdef@buffalo.edu](mailto:ubnetdef
   <img src="../rit.png" style="width:600px;margin-bottom:1rem">
   <img src="../albany.png" style="width:600px;margin-bottom:1rem">
   <img src="../ucf.png" style="width:600px;margin-bottom:1rem">
+  <img src="../UNH.png" style="width:600px;margin-bottom:1rem">
+  <img src="../Alfred.jpg" style="width:600px;margin-bottom:1rem">
   <img src="../BWU.png" style="width:200px;margin-bottom:1rem">
-  <img src="../UNH.png" style="width:200px;margin-bottom:1rem">
-  <img src="../Alfred.jpg" style="width:200px;margin-bottom:1rem">
 </div>
