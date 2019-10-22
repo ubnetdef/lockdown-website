@@ -1,5 +1,5 @@
 +++
-date = "2016-03-18"
+date = "2019-10-22"
 title = "Rules"
 +++
 
@@ -64,10 +64,6 @@ for your team.
   7. You are allowed to collaborate with teams participating in the competition. Reason
 being, most industry professionals need to do this to be successful. Teams will still
 be individual scored even when a joint effort is made.
-
-  8. **You may NOT block entire subnet ranges in your Firewall Rules – you can
-only block specific IP addresses and you must have proof that they are malicious if you do
-so.**
 
 4. Reference Material
   1. You will have access to Internet on your host machines during the competition to
