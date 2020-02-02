@@ -17,8 +17,8 @@ If you are intersted in competing, please email the competition organizer at [ub
 
 ### I have more questions!
 Great! Email the competition organizer at [ubnetdef@buffalo.edu](mailto:ubnetdef@buffalo.edu?subject=Lockdown+Question) with any questions you have!
-<!--
-### Participating schools
+
+### Previously participating schools
 
 <div style="text-align: center">
   <img src="../UB.png" style="width:600px;margin-bottom:1rem">
@@ -29,4 +29,3 @@ Great! Email the competition organizer at [ubnetdef@buffalo.edu](mailto:ubnetdef
   <img src="../Alfred.jpg" style="width:600px;margin-bottom:1rem">
   <img src="../BWU.png" style="width:200px;margin-bottom:1rem">
 </div>
--->
