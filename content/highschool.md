@@ -25,7 +25,7 @@ The competition is on **2/8/2020** at the UB North Campus from 9:30am to 3:30pm.
 
 ### How do I prepare?
 
-We have developed some instructional videos available on <a href="https://classroom.google.com" target="_blank">Google Classroom</a> to help you learn a bit about the technical infrastructure you will encounter at the competition.  Please use a **personal Google account and code kny5yr** to enroll in the classroom.  Due to limitations of Google Classroom, you will not be able to use this code with a Google Suite for Education account (i.e. your school account).
+We have developed some instructional videos available on <a href="https://classroom.google.com" target="_blank">Google Classroom</a> to help you learn a bit about the technical infrastructure you will encounter at the competition.  Please use a **personal Google account and code bgceeuh** to enroll in the classroom.  Due to limitations of Google Classroom, you will not be able to use this code with a Google Suite for Education account (i.e. your school account).
 
 
 ### Who do I contact for more information?
