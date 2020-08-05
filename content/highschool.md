@@ -8,19 +8,19 @@ title = "High School Cybersecurity Competition"
 
 Teams of high school students (max 4 per team) are invited to compete at the Lockdown Cybersecurity Competition for High Schools at the University at Buffalo. At this hands-on competition, student teams will be tasked with defending a small network of systems from attack and will be scored on how well their services remain available (service uptime). Teams will also be assigned and scored on various timed tasks to complete throughout the event. If that's not enough, a Cybersecurity CTF and other interesting challenges will be part of the competition as well!
 
-We welcome teams of all skill levels to join this fun and educational competition. You and your teammates will have an opportunity to win prizes while learning about cybersecurity in a supportive atmosphere of friendly competition. 
+We welcome teams of all skill levels to join this fun and educational competition. You and your teammates will have an opportunity learn about cybersecurity in a supportive atmosphere of friendly competition. 
 
-**Please note that each team is required to attend with a faculty advisor.**
+**Please note that each team is required to have a faculty advisor.**
 
 
 ### When and where?
 
-The competition is on **2/8/2020** at the UB North Campus from 9:30am to 3:30pm.
+The competition is online on **12/5/2020** from 9:30am to 3:30pm.
 
 
 ### How do I register? 
 
-<a href="https://forms.gle/UbPLnDhhdcUk7u3h8" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
+<a href="https://forms.gle/YsVJhhigh27eBBuC8" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
 
 
 ### How do I prepare?
