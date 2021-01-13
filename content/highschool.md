@@ -15,12 +15,12 @@ We welcome teams of all skill levels to join this fun and educational competitio
 
 ### When and where?
 
-The competition is online on **12/5/2020** from 9:30am to 3:30pm.
+The competition is online on **2/6/2021** from 9:30am to 4:00pm.
 
 
 ### How do I register? 
 
-<a href="https://forms.gle/YsVJhhigh27eBBuC8" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
+<a href="https://forms.gle/ZVVDBvCujL5otCXv5" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
 
 
 ### How do I prepare?
