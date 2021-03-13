@@ -1,9 +1,9 @@
 +++
-date = "2019-01-31"
+date = "2021-03-13"
 title = "Registration"
 +++
 
-Lockdown v9 will be held on October 17th, 2020. Register here: **https://forms.gle/Prs8Mgzf37WU32hi9**
+Lockdown v10 will be held on May 1st, 2021. Register here: **https://forms.gle/MLkc9PpigAxhX5Cf7**
 
 
 If you have any questions regarding Lockdown, please feel free to email **ubnetdef@buffalo.edu**
