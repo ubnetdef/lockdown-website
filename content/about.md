@@ -28,4 +28,10 @@ Great! Email the competition organizers at [ubnetdef@buffalo.edu](mailto:ubnetde
   <img src="../UNH.png" style="width:600px;margin-bottom:1rem">
   <img src="../Alfred.jpg" style="width:600px;margin-bottom:1rem">
   <img src="../BWU.png" style="width:200px;margin-bottom:1rem">
+  <img src="../TAM.png" style="width:600px;margin-bottom:1rem">
+  <img src="../Indiana_Tech.png" style="width:600px;margin-bottom:1rem">
+  <img src="../UC_Riverside.png" style="width:600px;margin-bottom:1rem">
+  <img src="../Syracuse.png" style="width:600px;margin-bottom:1rem">
+  <img src="../Utah_Valley.png" style="width:600px;margin-bottom:1rem">
+  <img src="../UMass_Amherst.png" style="width:600px;margin-bottom:1rem">
 </div>
