@@ -1,5 +1,5 @@
 +++
-date = "2018-09-27"
+date = "2021-10-20"
 title = "High School Cybersecurity Competition"
 +++
 
@@ -10,17 +10,17 @@ Teams of high school students (max 4 per team) are invited to compete at the Loc
 
 We welcome teams of all skill levels to join this fun and educational competition. You and your teammates will have an opportunity learn about cybersecurity in a supportive atmosphere of friendly competition. 
 
-**Please note that each team is required to have a faculty advisor.**
+**Please note that each team is required to have a faculty advisor.  Teams competing in person at UB must have a faculty advisor present with them during the event.  In person teams are required to follow all COVID health guidelines.**
 
 
 ### When and where?
 
-The competition is online on **2/6/2021** from 9:30am to 4:00pm.
+The competition is offered both online and in-person at UB on **12/4/2021** from 9:30am to 4:00pm.
 
 
 ### How do I register? 
 
-<a href="https://forms.gle/ZVVDBvCujL5otCXv5" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
+<a href="https://forms.gle/armW9UAMReiVqBer5" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
 
 
 ### How do I prepare?
