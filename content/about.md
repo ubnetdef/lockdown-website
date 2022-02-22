@@ -7,7 +7,7 @@ title = "About"
 Lockdown is a cyber security competition hosted by UBNetDef, and set up in a defense only, Red vs Blue format.  This semester's iteration of Lockdown is designed for competitors at a beginner to intermediate skill level. 
 
 ### When is it?
-Lockdown v11 is scheduled for **October 16, 2021 from 10:00AM to 4:30PM**. A schedule of events is located [here](/schedule).
+Internal Lockdown is scheduled for **April 2, 2022 from 12:00PM to 4:00PM**. A schedule of events is located [here](/schedule).
 
 ### Where is it hosted?
 Lockdown is hosted online by the University at Buffalo.
