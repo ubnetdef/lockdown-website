@@ -10,7 +10,7 @@ Lockdown is a cyber security competition hosted by UBNetDef, and set up in a def
 Lockdown is scheduled for **April 30, 2022 from 10:00AM to 4:30PM**. A schedule of events is located [here](/schedule).
 
 ### Where is it hosted?
-Lockdown is hosted online/in person by the University at Buffalo.
+Lockdown is hosted online for remote competitors, and also in person at the University at Buffalo, Jacobs Management Center, Room B20. Directions can be found [here](/directions).
 
 ### Do I need to do anything?
 You can register your team [here](https://forms.gle/1hexoUxkg81TaYQq9).
