@@ -13,7 +13,7 @@ Internal Lockdown is scheduled for **April 30, 2022 from 10:00PM to 4:30PM**. A 
 Lockdown is hosted online/in person by the University at Buffalo.
 
 ### Do I need to do anything?
-You can register your team [here](/registration).
+You can register your team here(/registration).
 
 ### I have more questions!
 Great! Email the competition organizers at [ubnetdef@buffalo.edu](mailto:ubnetdef@buffalo.edu?subject=Lockdown+Question) with any questions you have!
