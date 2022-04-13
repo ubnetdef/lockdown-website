@@ -16,7 +16,7 @@ Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+Spons
 ### **Premier Partner**
 <div style="text-align: center">
   <br>
- <!-- <img src="../M_T.png" style="width:500px;"> -->
+ <img src="../M_T.png" style="width:500px;">
  <!-- <img src="../DNORTH.png" style="width:450px;"> -->
 </div>
 
