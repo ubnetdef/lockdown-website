@@ -34,4 +34,5 @@ Great! Email the competition organizers at [ubnetdef@buffalo.edu](mailto:ubnetde
   <img src="../Syracuse.png" style="width:600px;margin-bottom:1rem">
   <img src="../Utah_Valley.png" style="width:600px;margin-bottom:1rem">
   <img src="../UMass_Amherst.png" style="width:600px;margin-bottom:1rem">
+  <img src="../berkeley.png" style="width:600px;margin-bottom:1rem">
 </div>
