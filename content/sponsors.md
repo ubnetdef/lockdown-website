@@ -8,10 +8,12 @@ title = "Sponsors"
 Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+Sponsorship) if you would like more information about sponsorship opportunities.
 
 ### **Presenting Partner**
+<!--
 <div style="text-align: center">
   <br>
  <img src="../Yahoo.png" style="width:600px;">
 </div>
+-->
 
 ### **Premier Partner**
 <div style="text-align: center">
