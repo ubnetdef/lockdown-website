@@ -1,5 +1,5 @@
 +++
-date = "2022-01-18"
+date = "2022-08-17"
 title = "High School Cybersecurity Competition"
 +++
 
@@ -15,12 +15,12 @@ We welcome teams of all skill levels to join this fun and educational competitio
 
 ### When and where?
 
-The competition is offered both online and in-person at UB on **2/12/2022** from 9:30am to 4:00pm.
+The competition is offered both online and in-person at UB on **12/3/2022** from 9:30am to 4:00pm.
 
 
 ### How do I register? 
 
-<a href="https://forms.gle/18QZYzab9167keu39" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
+<a href="https://forms.gle/r94eSiE85MmGALgR6" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
 
 
 ### How do I prepare?
