@@ -1,12 +1,12 @@
 +++
-date = "2022-08-17"
+date = "2022-09-09"
 title = "High School Cybersecurity Competition"
 +++
 
 
 ### What is it about?
 
-Teams of high school students (max 4 per team) are invited to compete at the Lockdown Cybersecurity Competition for High Schools at the University at Buffalo. At this hands-on competition, student teams will be tasked with defending a small network of systems from attack and will be scored on how well their services remain available (service uptime). Teams will also be assigned and scored on various timed tasks to complete throughout the event. If that's not enough, a Cybersecurity CTF and other interesting challenges will be part of the competition as well!
+Teams of high school students (max 5 per team) are invited to compete at the Lockdown Cybersecurity Competition for High Schools at the University at Buffalo. At this hands-on competition, student teams will be tasked with defending a small network of systems from attack and will be scored on how well their services remain available (service uptime). Teams will also be assigned and scored on various timed tasks to complete throughout the event. If that's not enough, a Cybersecurity CTF and other interesting challenges will be part of the competition as well!
 
 We welcome teams of all skill levels to join this fun and educational competition. You and your teammates will have an opportunity learn about cybersecurity in a supportive atmosphere of friendly competition. 
 
