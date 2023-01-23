@@ -15,7 +15,7 @@ We welcome teams of all skill levels to join this fun and educational competitio
 
 ### When and where?
 
-The competition is offered both online and in-person at UB on **2/11/2023** from 9:30am to 4:00pm.
+The competition is offered both online and in-person at UB on **2/18/2023** from 9:30am to 4:00pm.
 
 
 ### How do I register? 
