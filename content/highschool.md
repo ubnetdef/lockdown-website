@@ -20,7 +20,7 @@ The competition is offered both online and in-person at UB on **12/3/2022** from
 
 ### How do I register? 
 
-<a href="https://forms.gle/r94eSiE85MmGALgR6" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
+<a href="https://forms.gle/x2SKizE4C5kZU8hw8" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
 
 
 ### How do I prepare?
