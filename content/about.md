@@ -13,7 +13,7 @@ Lockdown is scheduled for **October 21, 2023 from 10:00AM to 4:30PM**. A schedul
 Lockdown is hosted online for remote competitors, and also in person at the University at Buffalo, Jacobs Management Center, Room B20. Directions can be found [here](/directions).
 
 ### Do I need to do anything?
-You can register your team [here](https://forms.gle/B9VDEwtTEPbmVnKa6).
+You can register your team [here](https://forms.gle/x3AD2xMPtjHuGQdj8).
 
 ### I have more questions!
 Great! Email the competition organizers at [ubnetdef@buffalo.edu](mailto:ubnetdef@buffalo.edu?subject=Lockdown+Question) with any questions you have!
