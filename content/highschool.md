@@ -20,7 +20,7 @@ The competition is offered both online and in-person at UB on **12/2/2023** from
 
 ### How do I register? 
 
-<a href="https://forms.gle/LoiyRkTB96Mshw4u8" target="_blank">Fill out this form</a> to reserve a spot for your team.  Space is limited to twelve teams, so sign up today!
+<a href="https://forms.gle/LoiyRkTB96Mshw4u8" target="_blank">Fill out this form</a> to reserve a spot for your team. Last Day to register is **11/27/2023**. Space is limited to twelve teams, so sign up today!
 
 
 ### How do I prepare?
