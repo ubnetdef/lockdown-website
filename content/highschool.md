@@ -10,8 +10,6 @@ Teams of high school students (max 5 per team) are invited to compete at the Loc
 
 We welcome teams of all skill levels to join this fun and educational competition. You and your teammates will have an opportunity learn about cybersecurity in a supportive atmosphere of friendly competition. 
 
-**Please note that each team is required to have a faculty advisor.  Teams competing in person at UB must have a faculty advisor present with them during the event.  In person teams are required to follow all COVID health guidelines.**
-
 
 ### When and where?
 
