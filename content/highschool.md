@@ -13,12 +13,12 @@ We welcome teams of all skill levels to join this fun and educational competitio
 
 ### When and where?
 
-The competition is offered both online and in-person at UB on **12/2/2023** from 9:30am to 4:00pm.
+The competition is offered both online and in-person at UB on **2/10/2024** from 9:30am to 4:00pm.
 
 
 ### How do I register? 
 
-<a href="https://forms.gle/4kRQVkjxigDkDmTo7" target="_blank">Fill out this form</a> to reserve a spot for your team. Last day to register is **11/27/2023**. Space is limited to twelve teams, so sign up today!
+<a href="https://forms.office.com/r/MhXWZdeJsK " target="_blank">Fill out this form</a> to reserve a spot for your team. Last day to register is **1/30/2024**. Space is limited to twelve teams, so sign up today!
 
 
 ### How do I prepare?
