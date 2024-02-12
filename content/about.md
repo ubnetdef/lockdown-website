@@ -13,7 +13,7 @@ Lockdown is scheduled for **April 20, 2024 from 10:00AM to 4:30PM**. A schedule 
 Lockdown is hosted online for remote competitors, and also in person at the University at Buffalo, Jacobs Management Center, Room B20. Directions can be found [here](/directions).
 
 ### Do I need to do anything?
-You can register your team [here](https://forms.gle/x3AD2xMPtjHuGQdj8).
+You can register your team [here](https://forms.gle/7cuoMUppuZKvNfra9).
 
 ### I have more questions!
 Great! Email the competition organizers at [ubnetdef@buffalo.edu](mailto:ubnetdef@buffalo.edu?subject=Lockdown+Question) with any questions you have!
