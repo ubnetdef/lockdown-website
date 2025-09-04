@@ -26,6 +26,10 @@ The competition is offered both online and in-person at UB on **02/08/2025** fro
 We have developed some instructional videos available on <a href="https://classroom.google.com" target="_blank">Google Classroom</a> to help you learn a bit about the technical infrastructure you will encounter at the competition.  Please use a **personal Google account and code zth4bq5** to enroll in the classroom.  Due to limitations of Google Classroom, you will not be able to use this code with a Google Suite for Education account (i.e. your school account).
 
 
+### Join the mailing list!
+We will contact you when registration opens for upcoming Lockdown events.
+https://forms.gle/ze889AXk4zs6pvzv5
+
 ### Who do I contact for more information?
 
 Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+HS+Question) if you have any questions or concerns. 
