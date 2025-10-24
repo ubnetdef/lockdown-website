@@ -21,3 +21,8 @@ menu:
     - Name: "sponsors"
       Weight: -60
       URL: "/sponsors"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
