@@ -3,11 +3,12 @@ date = "2021-10-06"
 title = "Sponsors"
 +++
 
-### Thank you to these generous sponsors for supporting Lockdown!
+### Interested in sponsoring Lockdown?
+<!-- ### Thank you to these generous sponsors for supporting Lockdown! -->
 
 Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+Sponsorship) if you would like more information about sponsorship opportunities.
 
-### **Presenting Partner**
+<!-- ### **Presenting Partner** -->
 <!--
 <div style="text-align: center">
   <br>
@@ -15,14 +16,14 @@ Please contact [David Murray](mailto:djmurray@buffalo.edu?subject=Lockdown+Spons
 </div>
 -->
 
-### **Premier Partner**
-<div style="text-align: center">
-  <br>
- <img src="../M_T.png" style="width:500px;">
+<!-- ### **Premier Partner** -->
+<!-- <div style="text-align: center"> -->
+  <!-- <br> -->
+ <!-- <img src="../M_T.png" style="width:500px;"> -->
  <!-- <img src="../DNORTH.png" style="width:450px;"> -->
-</div>
+<!-- </div> -->
 
-### **Supporter**
+<!-- ### **Supporter** -->
 <!--
 <div style="text-align: center">
   <img src="../verizon.jpg" style="width:350px">
