@@ -3,7 +3,7 @@ date = "2023-04-22"
 title = "Registration"
 +++
 
-Collegiate Lockdown will be held on April 12th, 2025. Last day to register is **03/29/2025**. Register here: https://forms.gle/AbdSQQMU4Fzf6nFj8
+Collegiate Lockdown will be held on **April 11th, 2026**. Last day to register is **March 30th, 2026**. Register here: https://forms.gle/AbdSQQMU4Fzf6nFj8
 
 ### Join the mailing list!
 We will contact you when registration opens for upcoming Lockdown events.
