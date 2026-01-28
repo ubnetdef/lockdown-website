@@ -1,19 +1,20 @@
 +++
 date = "2019-04-27"
-title = "Schedule of Events"
+title = "Schedule"
 +++
 
-### 10:00AM - 10:30AM
+### 9:30 AM
+Team Check-in
+
+### 10:00 AM
 Opening Remarks
 
-### 10:30AM - 4:00PM
-Competition time
+### 10:30 AM
+Competition starts
 
-### 4:00PM
-Uptime scoring ends.
+### 4:00 PM
+Uptime scoring ends
 
-### 4:10PM - 4:30PM
-Debrief from Red Team and White Team + Q&A
-
-### 4:30PM 
-Closing remarks 
+### 4:10 PM 
+Competition Debrief + Q&A  
+Closing remarks
