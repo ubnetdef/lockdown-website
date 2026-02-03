@@ -1,6 +1,6 @@
 +++
 date = "2022-09-09"
-title = "High School Cybersecurity Competition"
+title = "High School"
 +++
 
 
