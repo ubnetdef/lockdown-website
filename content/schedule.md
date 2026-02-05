@@ -12,9 +12,13 @@ Opening Remarks
 ### 10:30 AM
 Competition starts
 
-### 4:00 PM
-Uptime scoring ends
+### 3:00 PM
+Uptime scoring ends  
+Injects continue
 
-### 4:10 PM 
+### 3:30 PM
+Competition ends
+
+### 3:40 PM - 4:00 PM
 Competition Debrief + Q&A  
 Closing remarks
