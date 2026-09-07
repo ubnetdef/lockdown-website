@@ -18,7 +18,7 @@ The competition is offered both online and in-person at UB on **November 14, 202
 
 ### How do I register? 
 
-<a href="https://forms.gle/RxQ2ozYveeSbEcBBA " target="_blank">Fill out this form</a> to reserve a spot for your team. Last day to register is **November 5, 2026**. Space is limited to 12 teams, so sign up today!
+<a href="https://forms.gle/ZmWS8WrjCPxhmxs16 " target="_blank">Fill out this form</a> to reserve a spot for your team. Last day to register is **November 5, 2026**. Space is limited to 12 teams, so sign up today!
 
 
 ### How do I prepare?
